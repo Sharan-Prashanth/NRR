@@ -24,6 +24,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <p>Street Cricket Warriors</p>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
